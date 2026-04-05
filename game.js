@@ -1,8 +1,8 @@
 let O = x => {
-  return new OmegaNum(x); // Ignore
+  return new ExpantaNum(x); // DO NOT CHANGE
 };
 
-var Omg = OmegaNum; // Ignore
+var Omg = ExpantaNum; // DO NOT CHANGE
 
 function Game() {
   this.pts = O("0"); // The number
